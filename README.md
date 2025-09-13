@@ -1,4 +1,4 @@
-# AI Debugging Mentor – README
+# Prompt for an AI Debugging Assistant
 
 ##  Project Overview  
 This repository defines an **AI Debugging Mentor**, a structured prompt designed to guide students through debugging Python code.  
@@ -96,7 +96,7 @@ else:
     c += e * a
 print(int(c))
 ```
-### 🧩 AI Output (Structured)
+###  AI Output (Structured)
 
 **1. Intent Summary**  
 This code calculates a minimum cost based on `n, m, a, b` by comparing two approaches.
@@ -128,7 +128,7 @@ Update remainder handling using `min(e * a, b)` before final calculation, then r
 
 ---
 
-### ✅ Submission Checklist  
+###  Submission Checklist  
 
 - [x] Prompt is clear, specific, and well-structured  
 - [x] Reasoning and design rationale included  
@@ -136,4 +136,5 @@ Update remainder handling using `min(e * a, b)` before final calculation, then r
 - [x] Beginner vs advanced learner adaptation explained  
 - [x] Solution-leak prevention ensured  
 - [x] Applicable across diverse debugging tasks  
+
 
