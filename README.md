@@ -4,7 +4,7 @@
 This repository defines an **AI Debugging Mentor**, a structured prompt designed to guide students through debugging Python code.  
 Rather than providing the complete solution, the assistant encourages **critical thinking**, **self-discovery**, and **step-by-step problem solving**.
 
-🔗 **Full Prompt:** [View Here](https://github.com/NAMITHA-L/AI-DEBUGGING-ASSISTANT---PROMPT/blob/main/prompt%20for%20debug)
+🔗 **Full Prompt:** [View Here](https://github.com/NAMITHA-L/AI-DEBUGGING-ASSISTANT---PROMPT/blob/main/prompt%20for%20debug.md)
 
 ---
 
@@ -13,7 +13,7 @@ Rather than providing the complete solution, the assistant encourages **critical
 You can test this prompt with any LLM platform that supports custom system prompts or instructions.
 
 **Steps to Use:**
-1. Copy the full prompt from the [Prompt File](https://github.com/NAMITHA-L/AI-DEBUGGING-ASSISTANT---PROMPT/blob/main/prompt%20for%20debug)  
+1. Copy the full prompt from the [Prompt File](https://github.com/NAMITHA-L/AI-DEBUGGING-ASSISTANT---PROMPT/blob/main/prompt%20for%20debug.md)  
 2. Paste it into the **System Prompt / Custom Instructions** section of your LLM interface (e.g., OpenAI Playground)  
 3. Provide a Python code snippet with one or more bugs  
 4. Review the structured output and follow the debugging steps  
@@ -136,5 +136,6 @@ Update remainder handling using `min(e * a, b)` before final calculation, then r
 - [x] Beginner vs advanced learner adaptation explained  
 - [x] Solution-leak prevention ensured  
 - [x] Applicable across diverse debugging tasks  
+
 
 
